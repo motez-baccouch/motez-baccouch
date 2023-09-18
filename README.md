@@ -8,7 +8,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Motez</h1></summary>
   </ul>
   <ul align="center">
-     <img  src="https://github.com/motez-baccouch/motez-baccouch/blob/main/download-modified.png"
+     <img  https://github.com/motez-baccouch/motez-baccouch/blob/main/motezPixel.png"
        alt="art" />
   </ul>
 </div>
