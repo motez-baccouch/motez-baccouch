@@ -20,7 +20,7 @@
     <summary><h2 style="display: inline-block">In the art of mastery, my canvas is endless. 🎨✨</h2></summary>
   </ul>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/motez-baccouch-b4aa09212) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/motez.baccouch/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:motezbaccouch2@gmail.com) 
 ![Visits Badge](https://badges.pufler.dev/visits/motez-baccouch/motez-baccouch?style=for-the-badge)
