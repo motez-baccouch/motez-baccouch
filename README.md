@@ -19,12 +19,12 @@
   <img  src="https://github.com/motez-baccouch/motez-baccouch/blob/main/tumblr_bbaf8911c18af962a969747037b9f763_217f605b_1280.gif"
        alt="art" /></a>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Learning never stops.</h2></summary>
+    <summary><h2 style="display: inline-block">In the art of mastery, my canvas is endless. 🎨✨</h2></summary>
   </ul>
 </div>
 
