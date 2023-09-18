@@ -107,7 +107,9 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">"Life's a tough and lonely road, partner. But I tried, in the end, I did."
+
+Arthur Morgan</h2></summary>
   </ul>
 </div>
 
@@ -129,5 +131,5 @@
 
 ----------------------------------------------------------------------
 
-Last Edited on: 29/4/2023
+Last Edited on: 18/9/2023
 <!--
